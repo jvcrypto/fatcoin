@@ -5,13 +5,13 @@
     <name>AboutDialog</name>
     <message>
         <location filename="../forms/aboutdialog.ui" line="14"/>
-        <source>About NovaCoin</source>
-        <translation>About NovaCoin</translation>
+        <source>About FatCoin</source>
+        <translation>About FatCoin</translation>
     </message>
     <message>
         <location filename="../forms/aboutdialog.ui" line="56"/>
-        <source>&lt;b&gt;NovaCoin&lt;/b&gt; version</source>
-        <translation>&lt;b&gt;NovaCoin&lt;/b&gt; version</translation>
+        <source>&lt;b&gt;FatCoin&lt;/b&gt; version</source>
+        <translation>&lt;b&gt;FatCoin&lt;/b&gt; version</translation>
     </message>
     <message>
         <location filename="../forms/aboutdialog.ui" line="97"/>
@@ -19,12 +19,12 @@
 Copyright © 2011-2012 The PPCoin Developers
 Copyright © 2014 The Peerunity Developers
 Copyright © 2014 The EmerCoin Developers
-Copyright © 2012-2015 The NovaCoin developers</source>
+Copyright © 2012-2015 The FatCoin developers</source>
         <translation>Copyright © 2009-2015 The Bitcoin developers
 Copyright © 2011-2012 The PPCoin Developers
 Copyright © 2014 The Peerunity Developers
 Copyright © 2014 The EmerCoin Developers
-Copyright © 2012-2015 The NovaCoin developers</translation>
+Copyright © 2012-2015 The FatCoin developers</translation>
     </message>
     <message>
         <location filename="../forms/aboutdialog.ui" line="114"/>
@@ -41,8 +41,8 @@ Copyright © 2012-2015 The NovaCoin developers</translation>
     </message>
     <message>
         <location filename="../forms/addressbookpage.ui" line="20"/>
-        <source>These are your NovaCoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
-        <translation>These are your NovaCoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</translation>
+        <source>These are your FatCoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
+        <translation>These are your FatCoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</translation>
     </message>
     <message>
         <location filename="../forms/addressbookpage.ui" line="36"/>
@@ -76,8 +76,8 @@ Copyright © 2012-2015 The NovaCoin developers</translation>
     </message>
     <message>
         <location filename="../forms/addressbookpage.ui" line="102"/>
-        <source>Sign a message to prove you own a NovaCoin address</source>
-        <translation>Sign a message to prove you own a NovaCoin address</translation>
+        <source>Sign a message to prove you own a FatCoin address</source>
+        <translation>Sign a message to prove you own a FatCoin address</translation>
     </message>
     <message>
         <location filename="../forms/addressbookpage.ui" line="105"/>
@@ -86,8 +86,8 @@ Copyright © 2012-2015 The NovaCoin developers</translation>
     </message>
     <message>
         <location filename="../forms/addressbookpage.ui" line="116"/>
-        <source>Verify a message to ensure it was signed with a specified NovaCoin address</source>
-        <translation>Verify a message to ensure it was signed with a specified NovaCoin address</translation>
+        <source>Verify a message to ensure it was signed with a specified FatCoin address</source>
+        <translation>Verify a message to ensure it was signed with a specified FatCoin address</translation>
     </message>
     <message>
         <location filename="../forms/addressbookpage.ui" line="119"/>
@@ -238,8 +238,8 @@ Copyright © 2012-2015 The NovaCoin developers</translation>
     </message>
     <message>
         <location filename="../askpassphrasedialog.cpp" line="116"/>
-        <source>NovaCoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
-        <translation>NovaCoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</translation>
+        <source>FatCoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
+        <translation>FatCoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</translation>
     </message>
     <message>
         <location filename="../askpassphrasedialog.cpp" line="120"/>
@@ -291,8 +291,8 @@ Copyright © 2012-2015 The NovaCoin developers</translation>
     </message>
     <message>
         <location filename="../askpassphrasedialog.cpp" line="178"/>
-        <source>NovaCoin will close now to finish the decryption process. </source>
-        <translation>NovaCoin will close now to finish the decryption process. </translation>
+        <source>FatCoin will close now to finish the decryption process. </source>
+        <translation>FatCoin will close now to finish the decryption process. </translation>
     </message>
     <message>
         <location filename="../askpassphrasedialog.cpp" line="189"/>
@@ -310,14 +310,14 @@ Copyright © 2012-2015 The NovaCoin developers</translation>
     <name>BitcoinGUI</name>
     <message>
         <location filename="../bitcoin.cpp" line="111"/>
-        <source>A fatal error occurred. NovaCoin can no longer continue safely and will quit.</source>
-        <translation>A fatal error occurred. NovaCoin can no longer continue safely and will quit.</translation>
+        <source>A fatal error occurred. FatCoin can no longer continue safely and will quit.</source>
+        <translation>A fatal error occurred. FatCoin can no longer continue safely and will quit.</translation>
     </message>
     <message>
         <location filename="../bitcoingui.cpp" line="93"/>
         <location filename="../bitcoingui.cpp" line="740"/>
-        <source>NovaCoin</source>
-        <translation>NovaCoin</translation>
+        <source>FatCoin</source>
+        <translation>FatCoin</translation>
     </message>
     <message>
         <location filename="../bitcoingui.cpp" line="93"/>
@@ -341,8 +341,8 @@ Copyright © 2012-2015 The NovaCoin developers</translation>
     </message>
     <message>
         <location filename="../bitcoingui.cpp" line="244"/>
-        <source>Send coins to a NovaCoin address</source>
-        <translation>Send coins to a NovaCoin address</translation>
+        <source>Send coins to a FatCoin address</source>
+        <translation>Send coins to a FatCoin address</translation>
     </message>
     <message>
         <location filename="../bitcoingui.cpp" line="249"/>
@@ -406,13 +406,13 @@ Copyright © 2012-2015 The NovaCoin developers</translation>
     </message>
     <message>
         <location filename="../bitcoingui.cpp" line="296"/>
-        <source>&amp;About NovaCoin</source>
-        <translation>&amp;About NovaCoin</translation>
+        <source>&amp;About FatCoin</source>
+        <translation>&amp;About FatCoin</translation>
     </message>
     <message>
         <location filename="../bitcoingui.cpp" line="297"/>
-        <source>Show information about NovaCoin</source>
-        <translation>Show information about NovaCoin</translation>
+        <source>Show information about FatCoin</source>
+        <translation>Show information about FatCoin</translation>
     </message>
     <message>
         <location filename="../bitcoingui.cpp" line="300"/>
@@ -432,8 +432,8 @@ Copyright © 2012-2015 The NovaCoin developers</translation>
     </message>
     <message>
         <location filename="../bitcoingui.cpp" line="307"/>
-        <source>Modify configuration options for NovaCoin</source>
-        <translation>Modify configuration options for NovaCoin</translation>
+        <source>Modify configuration options for FatCoin</source>
+        <translation>Modify configuration options for FatCoin</translation>
     </message>
     <message>
         <location filename="../bitcoingui.cpp" line="309"/>
@@ -599,15 +599,15 @@ Copyright © 2012-2015 The NovaCoin developers</translation>
     <message>
         <location filename="../bitcoingui.cpp" line="434"/>
         <location filename="../bitcoingui.cpp" line="501"/>
-        <source>NovaCoin client</source>
-        <translation>NovaCoin client</translation>
+        <source>FatCoin client</source>
+        <translation>FatCoin client</translation>
     </message>
     <message numerus="yes">
         <location filename="../bitcoingui.cpp" line="573"/>
-        <source>%n active connection(s) to NovaCoin network</source>
+        <source>%n active connection(s) to FatCoin network</source>
         <translation>
-            <numerusform>%n active connection to NovaCoin network</numerusform>
-            <numerusform>%n active connections to NovaCoin network</numerusform>
+            <numerusform>%n active connection to FatCoin network</numerusform>
+            <numerusform>%n active connections to FatCoin network</numerusform>
         </translation>
     </message>
     <message>
@@ -762,8 +762,8 @@ Address: %4
     <message>
         <location filename="../bitcoingui.cpp" line="978"/>
         <location filename="../bitcoingui.cpp" line="993"/>
-        <source>URI can not be parsed! This can be caused by an invalid NovaCoin address or malformed URI parameters.</source>
-        <translation>URI can not be parsed! This can be caused by an invalid NovaCoin address or malformed URI parameters.</translation>
+        <source>URI can not be parsed! This can be caused by an invalid FatCoin address or malformed URI parameters.</source>
+        <translation>URI can not be parsed! This can be caused by an invalid FatCoin address or malformed URI parameters.</translation>
     </message>
     <message>
         <location filename="../bitcoingui.cpp" line="1012"/>
@@ -1211,8 +1211,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location filename="../editaddressdialog.cpp" line="103"/>
-        <source>The entered address &quot;%1&quot; is not a valid NovaCoin address.</source>
-        <translation>The entered address &quot;%1&quot; is not a valid NovaCoin address.</translation>
+        <source>The entered address &quot;%1&quot; is not a valid FatCoin address.</source>
+        <translation>The entered address &quot;%1&quot; is not a valid FatCoin address.</translation>
     </message>
     <message>
         <location filename="../editaddressdialog.cpp" line="108"/>
@@ -1235,8 +1235,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location filename="../guiutil.cpp" line="448"/>
         <location filename="../guiutil.cpp" line="460"/>
-        <source>NovaCoin-Qt</source>
-        <translation>NovaCoin-Qt</translation>
+        <source>FatCoin-Qt</source>
+        <translation>FatCoin-Qt</translation>
     </message>
     <message>
         <location filename="../guiutil.cpp" line="448"/>
@@ -1872,13 +1872,13 @@ Reduce the number of addresses involved in the address creation.</translation>
     </message>
     <message>
         <location filename="../forms/optionsdialog.ui" line="86"/>
-        <source>Automatically start NovaCoin after logging in to the system.</source>
-        <translation>Automatically start NovaCoin after logging in to the system.</translation>
+        <source>Automatically start FatCoin after logging in to the system.</source>
+        <translation>Automatically start FatCoin after logging in to the system.</translation>
     </message>
     <message>
         <location filename="../forms/optionsdialog.ui" line="89"/>
-        <source>&amp;Start NovaCoin on system login</source>
-        <translation>&amp;Start NovaCoin on system login</translation>
+        <source>&amp;Start FatCoin on system login</source>
+        <translation>&amp;Start FatCoin on system login</translation>
     </message>
     <message>
         <location filename="../forms/optionsdialog.ui" line="96"/>
@@ -1897,8 +1897,8 @@ Reduce the number of addresses involved in the address creation.</translation>
     </message>
     <message>
         <location filename="../forms/optionsdialog.ui" line="126"/>
-        <source>Automatically open the NovaCoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Automatically open the NovaCoin client port on the router. This only works when your router supports UPnP and it is enabled.</translation>
+        <source>Automatically open the FatCoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Automatically open the FatCoin client port on the router. This only works when your router supports UPnP and it is enabled.</translation>
     </message>
     <message>
         <location filename="../forms/optionsdialog.ui" line="129"/>
@@ -1907,8 +1907,8 @@ Reduce the number of addresses involved in the address creation.</translation>
     </message>
     <message>
         <location filename="../forms/optionsdialog.ui" line="136"/>
-        <source>Connect to the NovaCoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
-        <translation>Connect to the NovaCoin network through a SOCKS proxy (e.g. when connecting through Tor).</translation>
+        <source>Connect to the FatCoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
+        <translation>Connect to the FatCoin network through a SOCKS proxy (e.g. when connecting through Tor).</translation>
     </message>
     <message>
         <location filename="../forms/optionsdialog.ui" line="139"/>
@@ -2007,8 +2007,8 @@ Reduce the number of addresses involved in the address creation.</translation>
     </message>
     <message>
         <location filename="../forms/optionsdialog.ui" line="414"/>
-        <source>The user interface language can be set here. This setting will take effect after restarting NovaCoin.</source>
-        <translation>The user interface language can be set here. This setting will take effect after restarting NovaCoin.</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting FatCoin.</source>
+        <translation>The user interface language can be set here. This setting will take effect after restarting FatCoin.</translation>
     </message>
     <message>
         <location filename="../forms/optionsdialog.ui" line="425"/>
@@ -2022,8 +2022,8 @@ Reduce the number of addresses involved in the address creation.</translation>
     </message>
     <message>
         <location filename="../forms/optionsdialog.ui" line="447"/>
-        <source>Whether to show NovaCoin addresses in the transaction list or not.</source>
-        <translation>Whether to show NovaCoin addresses in the transaction list or not.</translation>
+        <source>Whether to show FatCoin addresses in the transaction list or not.</source>
+        <translation>Whether to show FatCoin addresses in the transaction list or not.</translation>
     </message>
     <message>
         <location filename="../forms/optionsdialog.ui" line="450"/>
@@ -2084,8 +2084,8 @@ Reduce the number of addresses involved in the address creation.</translation>
         <location filename="../optionsdialog.cpp" line="249"/>
         <location filename="../optionsdialog.cpp" line="258"/>
         <location filename="../optionsdialog.cpp" line="267"/>
-        <source>This setting will take effect after restarting NovaCoin.</source>
-        <translation>This setting will take effect after restarting NovaCoin.</translation>
+        <source>This setting will take effect after restarting FatCoin.</source>
+        <translation>This setting will take effect after restarting FatCoin.</translation>
     </message>
     <message>
         <location filename="../optionsdialog.cpp" line="297"/>
@@ -2108,8 +2108,8 @@ Reduce the number of addresses involved in the address creation.</translation>
     <message>
         <location filename="../forms/overviewpage.ui" line="47"/>
         <location filename="../forms/overviewpage.ui" line="360"/>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the NovaCoin network after a connection is established, but this process has not completed yet.</source>
-        <translation>The displayed information may be out of date. Your wallet automatically synchronizes with the NovaCoin network after a connection is established, but this process has not completed yet.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the FatCoin network after a connection is established, but this process has not completed yet.</source>
+        <translation>The displayed information may be out of date. Your wallet automatically synchronizes with the FatCoin network after a connection is established, but this process has not completed yet.</translation>
     </message>
     <message>
         <location filename="../forms/overviewpage.ui" line="226"/>
@@ -2209,18 +2209,18 @@ Reduce the number of addresses involved in the address creation.</translation>
     <name>QObject</name>
     <message>
         <location filename="../bitcoinunits.cpp" line="48"/>
-        <source>NovaCoins</source>
-        <translation>NovaCoins</translation>
+        <source>FatCoins</source>
+        <translation>FatCoins</translation>
     </message>
     <message>
         <location filename="../bitcoinunits.cpp" line="49"/>
-        <source>Milli-NovaCoins (1 / 1,000)</source>
-        <translation>Milli-NovaCoins (1 / 1,000)</translation>
+        <source>Milli-FatCoins (1 / 1,000)</source>
+        <translation>Milli-FatCoins (1 / 1,000)</translation>
     </message>
     <message>
         <location filename="../bitcoinunits.cpp" line="50"/>
-        <source>Micro-NovaCoins (1 / 1,000,000)</source>
-        <translation>Micro-NovaCoins (1 / 1,000,000)</translation>
+        <source>Micro-FatCoins (1 / 1,000,000)</source>
+        <translation>Micro-FatCoins (1 / 1,000,000)</translation>
     </message>
     <message>
         <location filename="../bitcoinunits.cpp" line="185"/>
@@ -2315,8 +2315,8 @@ Reduce the number of addresses involved in the address creation.</translation>
     <name>RPCConsole</name>
     <message>
         <location filename="../forms/rpcconsole.ui" line="14"/>
-        <source>NovaCoin - Debug window</source>
-        <translation>NovaCoin - Debug window</translation>
+        <source>FatCoin - Debug window</source>
+        <translation>FatCoin - Debug window</translation>
     </message>
     <message>
         <location filename="../forms/rpcconsole.ui" line="24"/>
@@ -2355,8 +2355,8 @@ Reduce the number of addresses involved in the address creation.</translation>
     </message>
     <message>
         <location filename="../forms/rpcconsole.ui" line="95"/>
-        <source>Open the NovaCoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation>Open the NovaCoin debug log file from the current data directory. This can take a few seconds for large log files.</translation>
+        <source>Open the FatCoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <translation>Open the FatCoin debug log file from the current data directory. This can take a few seconds for large log files.</translation>
     </message>
     <message>
         <location filename="../forms/rpcconsole.ui" line="98"/>
@@ -2370,8 +2370,8 @@ Reduce the number of addresses involved in the address creation.</translation>
     </message>
     <message>
         <location filename="../forms/rpcconsole.ui" line="147"/>
-        <source>Show the NovaCoin-Qt help message to get a list with possible NovaCoin command-line options.</source>
-        <translation>Show the NovaCoin-Qt help message to get a list with possible NovaCoin command-line options.</translation>
+        <source>Show the FatCoin-Qt help message to get a list with possible FatCoin command-line options.</source>
+        <translation>Show the FatCoin-Qt help message to get a list with possible FatCoin command-line options.</translation>
     </message>
     <message>
         <location filename="../forms/rpcconsole.ui" line="150"/>
@@ -2435,8 +2435,8 @@ Reduce the number of addresses involved in the address creation.</translation>
     </message>
     <message>
         <location filename="../forms/rpcconsole.ui" line="383"/>
-        <source>NovaCoin Core</source>
-        <translation>NovaCoin Core</translation>
+        <source>FatCoin Core</source>
+        <translation>FatCoin Core</translation>
     </message>
     <message>
         <location filename="../forms/rpcconsole.ui" line="406"/>
@@ -2445,8 +2445,8 @@ Reduce the number of addresses involved in the address creation.</translation>
     </message>
     <message>
         <location filename="../forms/rpcconsole.ui" line="426"/>
-        <source>Open the NovaCoin configuration file from the current data directory.</source>
-        <translation>Open the NovaCoin configuration file from the current data directory.</translation>
+        <source>Open the FatCoin configuration file from the current data directory.</source>
+        <translation>Open the FatCoin configuration file from the current data directory.</translation>
     </message>
     <message>
         <location filename="../forms/rpcconsole.ui" line="429"/>
@@ -2490,8 +2490,8 @@ Reduce the number of addresses involved in the address creation.</translation>
     </message>
     <message>
         <location filename="../rpcconsole.cpp" line="326"/>
-        <source>Welcome to the NovaCoin RPC console.</source>
-        <translation>Welcome to the NovaCoin RPC console.</translation>
+        <source>Welcome to the FatCoin RPC console.</source>
+        <translation>Welcome to the FatCoin RPC console.</translation>
     </message>
     <message>
         <location filename="../rpcconsole.cpp" line="327"/>
@@ -2699,8 +2699,8 @@ Reduce the number of addresses involved in the address creation.</translation>
     </message>
     <message>
         <location filename="../sendcoinsdialog.cpp" line="42"/>
-        <source>Enter a NovaCoin address (e.g. 4Zo1ga6xuKuQ7JV7M9rGDoxdbYwV5zgQJ5)</source>
-        <translation>Enter a NovaCoin address (e.g. 4Zo1ga6xuKuQ7JV7M9rGDoxdbYwV5zgQJ5)</translation>
+        <source>Enter a FatCoin address (e.g. 4Zo1ga6xuKuQ7JV7M9rGDoxdbYwV5zgQJ5)</source>
+        <translation>Enter a FatCoin address (e.g. 4Zo1ga6xuKuQ7JV7M9rGDoxdbYwV5zgQJ5)</translation>
     </message>
     <message>
         <location filename="../sendcoinsdialog.cpp" line="56"/>
@@ -2859,8 +2859,8 @@ Reduce the number of addresses involved in the address creation.</translation>
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="26"/>
-        <source>Enter a NovaCoin address (e.g. 4Zo1ga6xuKuQ7JV7M9rGDoxdbYwV5zgQJ5)</source>
-        <translation>Enter a NovaCoin address (e.g. 4Zo1ga6xuKuQ7JV7M9rGDoxdbYwV5zgQJ5)</translation>
+        <source>Enter a FatCoin address (e.g. 4Zo1ga6xuKuQ7JV7M9rGDoxdbYwV5zgQJ5)</source>
+        <translation>Enter a FatCoin address (e.g. 4Zo1ga6xuKuQ7JV7M9rGDoxdbYwV5zgQJ5)</translation>
     </message>
 </context>
 <context>
@@ -2920,8 +2920,8 @@ Reduce the number of addresses involved in the address creation.</translation>
     </message>
     <message>
         <location filename="../forms/signverifymessagedialog.ui" line="148"/>
-        <source>Sign the message to prove you own this NovaCoin address</source>
-        <translation>Sign the message to prove you own this NovaCoin address</translation>
+        <source>Sign the message to prove you own this FatCoin address</source>
+        <translation>Sign the message to prove you own this FatCoin address</translation>
     </message>
     <message>
         <location filename="../forms/signverifymessagedialog.ui" line="165"/>
@@ -2952,8 +2952,8 @@ Reduce the number of addresses involved in the address creation.</translation>
     </message>
     <message>
         <location filename="../forms/signverifymessagedialog.ui" line="294"/>
-        <source>Verify the message to ensure it was signed with the specified NovaCoin address</source>
-        <translation>Verify the message to ensure it was signed with the specified NovaCoin address</translation>
+        <source>Verify the message to ensure it was signed with the specified FatCoin address</source>
+        <translation>Verify the message to ensure it was signed with the specified FatCoin address</translation>
     </message>
     <message>
         <location filename="../forms/signverifymessagedialog.ui" line="311"/>
@@ -2963,8 +2963,8 @@ Reduce the number of addresses involved in the address creation.</translation>
     <message>
         <location filename="../signverifymessagedialog.cpp" line="29"/>
         <location filename="../signverifymessagedialog.cpp" line="32"/>
-        <source>Enter a NovaCoin address (e.g. 4Zo1ga6xuKuQ7JV7M9rGDoxdbYwV5zgQJ5)</source>
-        <translation>Enter a NovaCoin address (e.g. 4Zo1ga6xuKuQ7JV7M9rGDoxdbYwV5zgQJ5)</translation>
+        <source>Enter a FatCoin address (e.g. 4Zo1ga6xuKuQ7JV7M9rGDoxdbYwV5zgQJ5)</source>
+        <translation>Enter a FatCoin address (e.g. 4Zo1ga6xuKuQ7JV7M9rGDoxdbYwV5zgQJ5)</translation>
     </message>
     <message>
         <location filename="../signverifymessagedialog.cpp" line="30"/>
@@ -2973,8 +2973,8 @@ Reduce the number of addresses involved in the address creation.</translation>
     </message>
     <message>
         <location filename="../signverifymessagedialog.cpp" line="33"/>
-        <source>Enter NovaCoin signature</source>
-        <translation>Enter NovaCoin signature</translation>
+        <source>Enter FatCoin signature</source>
+        <translation>Enter FatCoin signature</translation>
     </message>
     <message>
         <location filename="../signverifymessagedialog.cpp" line="115"/>
@@ -3559,7 +3559,7 @@ Reduce the number of addresses involved in the address creation.</translation>
         <source>%s, you must set a rpcpassword in the configuration file:
  %s
 It is recommended you use the following random password:
-rpcuser=novacoinrpc
+rpcuser=fatcoinrpc
 rpcpassword=%s
 (you do not need to remember this password)
 If the file does not exist, create it with owner-readable-only file permissions.
@@ -3567,7 +3567,7 @@ If the file does not exist, create it with owner-readable-only file permissions.
         <translation>%s, you must set a rpcpassword in the configuration file:
  %s
 It is recommended you use the following random password:
-rpcuser=novacoinrpc
+rpcuser=fatcoinrpc
 rpcpassword=%s
 (you do not need to remember this password)
 If the file does not exist, create it with owner-readable-only file permissions.</translation>
@@ -3589,8 +3589,8 @@ If the file does not exist, create it with owner-readable-only file permissions.
     </message>
     <message>
         <location filename="../bitcoinstrings.cpp" line="26"/>
-        <source>Cannot obtain a lock on data directory %s.  NovaCoin is probably already running.</source>
-        <translation>Cannot obtain a lock on data directory %s.  NovaCoin is probably already running.</translation>
+        <source>Cannot obtain a lock on data directory %s.  FatCoin is probably already running.</source>
+        <translation>Cannot obtain a lock on data directory %s.  FatCoin is probably already running.</translation>
     </message>
     <message>
         <location filename="../bitcoinstrings.cpp" line="29"/>
@@ -3624,8 +3624,8 @@ If the file does not exist, create it with owner-readable-only file permissions.
     </message>
     <message>
         <location filename="../bitcoinstrings.cpp" line="46"/>
-        <source>Listen for JSON-RPC connections on &lt;port&gt; (default: 8344 or testnet: 18344)</source>
-        <translation>Listen for JSON-RPC connections on &lt;port&gt; (default: 8344 or testnet: 18344)</translation>
+        <source>Listen for JSON-RPC connections on &lt;port&gt; (default: 9029 or testnet: 19029)</source>
+        <translation>Listen for JSON-RPC connections on &lt;port&gt; (default: 9029 or testnet: 19029)</translation>
     </message>
     <message>
         <location filename="../bitcoinstrings.cpp" line="48"/>
@@ -3639,8 +3639,8 @@ If the file does not exist, create it with owner-readable-only file permissions.
     </message>
     <message>
         <location filename="../bitcoinstrings.cpp" line="54"/>
-        <source>Unable to bind to %s on this computer. NovaCoin is probably already running.</source>
-        <translation>Unable to bind to %s on this computer. NovaCoin is probably already running.</translation>
+        <source>Unable to bind to %s on this computer. FatCoin is probably already running.</source>
+        <translation>Unable to bind to %s on this computer. FatCoin is probably already running.</translation>
     </message>
     <message>
         <location filename="../bitcoinstrings.cpp" line="56"/>
@@ -3649,8 +3649,8 @@ If the file does not exist, create it with owner-readable-only file permissions.
     </message>
     <message>
         <location filename="../bitcoinstrings.cpp" line="59"/>
-        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong NovaCoin will not work properly.</source>
-        <translation>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong NovaCoin will not work properly.</translation>
+        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong FatCoin will not work properly.</source>
+        <translation>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong FatCoin will not work properly.</translation>
     </message>
     <message>
         <location filename="../bitcoinstrings.cpp" line="62"/>
@@ -3778,8 +3778,8 @@ If the file does not exist, create it with owner-readable-only file permissions.
     </message>
     <message>
         <location filename="../bitcoinstrings.cpp" line="95"/>
-        <source>Error loading wallet.dat: Wallet requires newer version of NovaCoin</source>
-        <translation>Error loading wallet.dat: Wallet requires newer version of NovaCoin</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of FatCoin</source>
+        <translation>Error loading wallet.dat: Wallet requires newer version of FatCoin</translation>
     </message>
     <message>
         <location filename="../bitcoinstrings.cpp" line="96"/>
@@ -3888,8 +3888,8 @@ If the file does not exist, create it with owner-readable-only file permissions.
     </message>
     <message>
         <location filename="../bitcoinstrings.cpp" line="117"/>
-        <source>Listen for connections on &lt;port&gt; (default: 7777 or testnet: 17777)</source>
-        <translation>Listen for connections on &lt;port&gt; (default: 7777 or testnet: 17777)</translation>
+        <source>Listen for connections on &lt;port&gt; (default: 9030 or testnet: 19030)</source>
+        <translation>Listen for connections on &lt;port&gt; (default: 9030 or testnet: 19030)</translation>
     </message>
     <message>
         <location filename="../bitcoinstrings.cpp" line="118"/>
@@ -3923,13 +3923,13 @@ If the file does not exist, create it with owner-readable-only file permissions.
     </message>
     <message>
         <location filename="../bitcoinstrings.cpp" line="124"/>
-        <source>NovaCoin version</source>
-        <translation>NovaCoin version</translation>
+        <source>FatCoin version</source>
+        <translation>FatCoin version</translation>
     </message>
     <message>
         <location filename="../bitcoinstrings.cpp" line="125"/>
-        <source>NovaCoin</source>
-        <translation>NovaCoin</translation>
+        <source>FatCoin</source>
+        <translation>FatCoin</translation>
     </message>
     <message>
         <location filename="../bitcoinstrings.cpp" line="126"/>
@@ -3988,8 +3988,8 @@ If the file does not exist, create it with owner-readable-only file permissions.
     </message>
     <message>
         <location filename="../bitcoinstrings.cpp" line="137"/>
-        <source>Send command to -server or novacoind</source>
-        <translation>Send command to -server or novacoind</translation>
+        <source>Send command to -server or fatcoind</source>
+        <translation>Send command to -server or fatcoind</translation>
     </message>
     <message>
         <location filename="../bitcoinstrings.cpp" line="138"/>
@@ -4053,8 +4053,8 @@ If the file does not exist, create it with owner-readable-only file permissions.
     </message>
     <message>
         <location filename="../bitcoinstrings.cpp" line="150"/>
-        <source>Specify configuration file (default: novacoin.conf)</source>
-        <translation>Specify configuration file (default: novacoin.conf)</translation>
+        <source>Specify configuration file (default: fatcoin.conf)</source>
+        <translation>Specify configuration file (default: fatcoin.conf)</translation>
     </message>
     <message>
         <location filename="../bitcoinstrings.cpp" line="151"/>
@@ -4068,8 +4068,8 @@ If the file does not exist, create it with owner-readable-only file permissions.
     </message>
     <message>
         <location filename="../bitcoinstrings.cpp" line="153"/>
-        <source>Specify pid file (default: novacoind.pid)</source>
-        <translation>Specify pid file (default: novacoind.pid)</translation>
+        <source>Specify pid file (default: fatcoind.pid)</source>
+        <translation>Specify pid file (default: fatcoind.pid)</translation>
     </message>
     <message>
         <location filename="../bitcoinstrings.cpp" line="154"/>
@@ -4160,8 +4160,8 @@ If the file does not exist, create it with owner-readable-only file permissions.
     </message>
     <message>
         <location filename="../bitcoinstrings.cpp" line="171"/>
-        <source>Wallet needed to be rewritten: restart NovaCoin to complete</source>
-        <translation>Wallet needed to be rewritten: restart NovaCoin to complete</translation>
+        <source>Wallet needed to be rewritten: restart FatCoin to complete</source>
+        <translation>Wallet needed to be rewritten: restart FatCoin to complete</translation>
     </message>
     <message>
         <location filename="../bitcoinstrings.cpp" line="172"/>

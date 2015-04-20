@@ -5,7 +5,7 @@
 # endif
 #include "../../src/clientversion.h" // holds the needed client version information
 
-mynovacoinqt_resource.rc += icon.rc
+myfatcoinqt_resource.rc += icon.rc
 
 #define VER_PRODUCTVERSION     CLIENT_VERSION_MAJOR,CLIENT_VERSION_MINOR,CLIENT_VERSION_REVISION,CLIENT_VERSION_BUILD
 #define VER_PRODUCTVERSION_STR STRINGIZE(CLIENT_VERSION_MAJOR) "." STRINGIZE(CLIENT_VERSION_MINOR) "." STRINGIZE(CLIENT_VERSION_REVISION) "." STRINGIZE(CLIENT_VERSION_BUILD)
@@ -22,14 +22,14 @@ BEGIN
     BEGIN
         BLOCK "040904E4" // U.S. English - multilingual (hex)
         BEGIN
-            VALUE "CompanyName",        "NovaCoin"
-            VALUE "FileDescription",    "NovaCoin-Qt (OSS GUI client for NovaCoin)"
+            VALUE "CompanyName",        "FatCoin"
+            VALUE "FileDescription",    "FatCoin-Qt (OSS GUI client for FatCoin)"
             VALUE "FileVersion",        VER_FILEVERSION_STR
-            VALUE "InternalName",       "novacoin-qt"
-            VALUE "LegalCopyright",     "2009-2012 The Bitcoin developers, 2012-2014 The NovaCoin & PPCoin developers"
+            VALUE "InternalName",       "fatcoin-qt"
+            VALUE "LegalCopyright",     "2009-2012 The Bitcoin developers, 2012-2014 The FatCoin & PPCoin developers"
             VALUE "LegalTrademarks1",   "Distributed under the MIT/X11 software license, see the accompanying file COPYING or http://www.opensource.org/licenses/mit-license.php."
-            VALUE "OriginalFilename",   "novacoin-qt.exe"
-            VALUE "ProductName",        "NovaCoin-Qt"
+            VALUE "OriginalFilename",   "fatcoin-qt.exe"
+            VALUE "ProductName",        "FatCoin-Qt"
             VALUE "ProductVersion",     VER_PRODUCTVERSION_STR
         END
     END

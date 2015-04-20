@@ -1,5 +1,5 @@
-novacoin-qt usr/bin
-share/pixmaps/novacoin32.xpm usr/share/pixmaps
-share/pixmaps/novacoin80.xpm usr/share/pixmaps
-debian/novacoin-qt.desktop usr/share/applications
-debian/novacoin-qt.protocol usr/share/kde4/services/
+fatcoin-qt usr/bin
+share/pixmaps/fatcoin32.xpm usr/share/pixmaps
+share/pixmaps/fatcoin80.xpm usr/share/pixmaps
+debian/fatcoin-qt.desktop usr/share/applications
+debian/fatcoin-qt.protocol usr/share/kde4/services/

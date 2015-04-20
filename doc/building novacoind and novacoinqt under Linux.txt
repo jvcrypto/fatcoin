@@ -22,16 +22,16 @@ openSUSE(проверено на версии 13.2):
 
 После того, как установка завершалась, можно клонировать Novacoin репозитарий
 
- git clone https://github.com/novacoin-project/novacoin.git
+ git clone https://github.com/fatcoin-project/fatcoin.git
 
 и наконец, скомпилировать свой клиент
 
- cd novacoin
+ cd fatcoin
  qmake USE_UPNP=1 USE_QRCODE=1 USE_O3=1 USE_ASM=1 (если хотите LevelDB, то USE_LEVELDB=1)  
  make
  cd src
  make -f makefile.unix USE_UPNP=1  USE_O3=1 USE_ASM=1 (если хотите LevelDB, то USE_LEVELDB=1) 
- strip novacoind      
+ strip fatcoind      
 
 Команды выше компилируют бинарные файлы с динамической линковкой, если вы хотите со статической линковкой и ваш дистрибутив содержит статические библиотеки(.a , а не .so), то добавьте:
 -в команду qmake: 
@@ -44,8 +44,8 @@ openSUSE(проверено на версии 13.2):
 2) Скачайте программу в соответсвии с вашей системой
 3) Распакуйте программу в папку с бинарными Novacoin файлами.
 4) Введите в терминале
-./upx -9 novacoind
+./upx -9 fatcoind
 затем
-./upx -9 novacoin-qt
+./upx -9 fatcoin-qt
 
-И ваши novacoind и novacoin-qt станут меньше ~ в 3 раза.
+И ваши fatcoind и fatcoin-qt станут меньше ~ в 3 раза.

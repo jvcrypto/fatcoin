@@ -105,7 +105,7 @@ OBJS= \
     obj/noui.o \
     obj/kernel.o
 
-all: novacoind.exe
+all: fatcoind.exe
 
 #
 # LevelDB support
@@ -166,12 +166,12 @@ DEFS += -DHAVE_BUILD_INFO
 obj/%.o: %.cpp $(HEADERS)
 	$(CXX) -c $(CFLAGS) -o $@ $<
 
-novacoind.exe: $(OBJS:obj/%=obj/%)
+fatcoind.exe: $(OBJS:obj/%=obj/%)
 	$(CXX) $(CFLAGS) $(LDFLAGS) -o $@ $(LIBPATHS) $^ $(LIBS) -lshlwapi
-	$(STRIP) novacoind.exe
+	$(STRIP) fatcoind.exe
 
 clean:
-	-rm -f novacoind.exe
+	-rm -f fatcoind.exe
 	-rm -f obj/*.o
 	-rm -f obj/*.P
 	-rm -f obj/*.d

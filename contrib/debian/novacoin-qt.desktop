@@ -1,13 +1,13 @@
 [Desktop Entry]
 Encoding=UTF-8
-Name=NovaCoin
-Comment=NovaCoin P2P Cryptocurrency
-Comment[ru]=NovaCoin, P2P криптовалюта
-Comment[fr]=NovaCoin, monnaie virtuelle cryptographique pair à pair
-Comment[tr]=NovaCoin, eşten eşe kriptografik sanal para birimi
-Exec=/usr/bin/novacoin-qt
+Name=FatCoin
+Comment=FatCoin P2P Cryptocurrency
+Comment[ru]=FatCoin, P2P криптовалюта
+Comment[fr]=FatCoin, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=FatCoin, eşten eşe kriptografik sanal para birimi
+Exec=/usr/bin/fatcoin-qt
 Terminal=false
 Type=Application
-Icon=/usr/share/pixmaps/novacoin80.xpm
-MimeType=x-scheme-handler/novacoin;
+Icon=/usr/share/pixmaps/fatcoin80.xpm
+MimeType=x-scheme-handler/fatcoin;
 Categories=Office;

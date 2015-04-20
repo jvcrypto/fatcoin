@@ -1,2 +1,2 @@
-debian/bin/novacoind usr/bin
-src/novacoind usr/lib/novacoin
+debian/bin/fatcoind usr/bin
+src/fatcoind usr/lib/fatcoin

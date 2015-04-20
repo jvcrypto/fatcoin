@@ -1,4 +1,4 @@
-Source: novacoin
+Source: fatcoin
 Section: utils
 Priority: optional
 Maintainer: Alex D. <balthazar.ad@gmail.com>
@@ -19,10 +19,10 @@ Build-Depends: debhelper,
  libqrencode-dev
 Standards-Version: 3.9.2
 Homepage: http://www.novaco.in/
-Vcs-Git: git://github.com/novacoin-project/novacoin.git
-Vcs-Browser: http://github.com/novacoin-project/novacoin
+Vcs-Git: git://github.com/fatcoin-project/fatcoin.git
+Vcs-Browser: http://github.com/fatcoin-project/fatcoin
 
-Package: novacoind
+Package: fatcoind
 Architecture: any
 Depends: ${shlibs:Depends}, ${misc:Depends}
 Description: peer-to-peer network based digital currency - daemon
@@ -37,10 +37,10 @@ Description: peer-to-peer network based digital currency - daemon
  Full transaction history is stored locally at each client.  This
  requires 150+ MiB of space, slowly growing.
  .
- This package provides novacoind, a combined daemon and CLI tool to
+ This package provides fatcoind, a combined daemon and CLI tool to
  interact with the daemon.
 
-Package: novacoin-qt
+Package: fatcoin-qt
 Architecture: any
 Depends: ${shlibs:Depends}, ${misc:Depends}
 Description: peer-to-peer network based digital currency - Qt GUI

@@ -1700,7 +1700,7 @@ void CWallet::GetStakeWeightFromValue(const int64_t& nTime, const int64_t& nValu
 }
 
 
-// NovaCoin: get current stake miner statistics
+// FatCoin: get current stake miner statistics
 void CWallet::GetStakeStats(float &nKernelsRate, float &nCoinDaysRate)
 {
     static uint64_t nLastKernels = 0, nLastCoinDays = 0;

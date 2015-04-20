@@ -1,8 +1,8 @@
 Format: http://svn.debian.org/wsvn/dep/web/deps/dep5.mdwn?rev=174
 Upstream-Name: Novacoin
 Upstream-Contact: Alex D. <balthazar.ad@gmail.com>
-Source: http://sourceforge.net/projects/novacoin/files/
- https://github.com/novacoin-project/novacoin
+Source: http://sourceforge.net/projects/fatcoin/files/
+ https://github.com/fatcoin-project/fatcoin
 
 Files: *
 Copyright: 2012-2015, Novacoin Developers

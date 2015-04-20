@@ -105,10 +105,10 @@ buildqt64.bat
 (Если у вас английская версия, то это выглядит так: Tools->Options->Text Editor->All Languages->Tabs и поставьте флажок "Insert Spaces" вместо "Keep Tabs".)
 
 3.1 Скачиваем исходники
--Зайдите на сайт https://github.com/novacoin-project/novacoin 
+-Зайдите на сайт https://github.com/fatcoin-project/fatcoin 
 -Нажмите Download ZIP
--Распакуйте novacoin-master.zip в C:\MyProjects
--переименуйте novacoin-master в Novacoin
+-Распакуйте fatcoin-master.zip в C:\MyProjects
+-переименуйте fatcoin-master в Novacoin
 
 3.2 Компиляция
 -Откройте Microsoft Visual Studio 2012

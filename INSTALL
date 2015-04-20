@@ -1,9 +1,9 @@
-Building NovaCoin
+Building FatCoin
 
-See doc/readme-qt.rst for instructions on building NovaCoin Qt,
+See doc/readme-qt.rst for instructions on building FatCoin Qt,
 the intended-for-end-users, nice-graphical-interface, reference
-implementation of NovaCoin.
+implementation of FatCoin.
 
-See doc/build-*.txt for instructions on building novacoind,
+See doc/build-*.txt for instructions on building fatcoind,
 the intended-for-services, no-graphical-interface, reference
-implementation of NovaCoin.
+implementation of FatCoin.
